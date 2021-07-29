@@ -19,13 +19,16 @@ Open "config/keys.js" and add your MongoDB URI, local or Atlas
 
 ### ScreenShots
 
+Main Page
+![main-page](views/imgs/main.png)
+
 Register
 ![register](views/imgs/register.png)
 
 Login
 ![login](views/imgs/login.png)
 
-Main page
+Home
 ![main page](views/imgs/main-page.png)
 
 logout
